@@ -19,4 +19,6 @@ RUN pip3 install -r requirements.txt
 #    ./configure --enable-nonfree --disable-shared --extra-cflags=-I/usr/local/include && \
 #    make -j8 && make install -j8
 
+RUN echo 'alias ydl="youtube-dl -i"' >> ~/.bashrc
+
 CMD ["/bin/bash"]
