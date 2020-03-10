@@ -14,3 +14,8 @@ $ docker build -t dl-docker .
 $ ./start_container.sh
 ```
 
+## Features to add/Issues to fix
+
+- Build docker image from `start_container.sh` if not available
+- Add ffmpeg and ffprobe
+- Improve the prompt (add docker container name etc.)
