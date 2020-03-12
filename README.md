@@ -4,7 +4,7 @@ This repository contains files to run a docker with some DL packages.
 
 ## How to use
 
-1- Build the docker image:
+1- Build the docker image (Check [this for how to install Docker](https://docs.docker.com/install/)):
 ```
 $ docker build -t dl-docker .
 ```
