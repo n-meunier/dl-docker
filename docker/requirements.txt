@@ -1,3 +1,4 @@
 soundscrape==0.30.1
 bandcamp-downloader==0.0.8.post12
-youtube-dl==2020.3.8
+youtube-dl
+woof
