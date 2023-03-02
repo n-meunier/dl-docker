@@ -1,4 +1,3 @@
-soundscrape==0.31.0
-bandcamp-downloader==0.0.8.post12
-youtube-dl
+soundscrape
+bandcamp-downloader
 woof
